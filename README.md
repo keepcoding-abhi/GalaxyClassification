@@ -1,2 +1,2 @@
 # GalaxyClassification
-A transfer learning based model to classify galaxies based on their morphology
+A transfer learning based approach to classify galaxies based on their morphology.
